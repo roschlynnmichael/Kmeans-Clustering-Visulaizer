@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Kmeans-Clustering-Visualizer/static/css/main.cc39ff6d.chunk.css",
+    "main.js": "/Kmeans-Clustering-Visualizer/static/js/main.6d97c8d7.chunk.js",
+    "main.js.map": "/Kmeans-Clustering-Visualizer/static/js/main.6d97c8d7.chunk.js.map",
+    "runtime-main.js": "/Kmeans-Clustering-Visualizer/static/js/runtime-main.e344dece.js",
+    "runtime-main.js.map": "/Kmeans-Clustering-Visualizer/static/js/runtime-main.e344dece.js.map",
+    "static/css/2.92c2f793.chunk.css": "/Kmeans-Clustering-Visualizer/static/css/2.92c2f793.chunk.css",
+    "static/js/2.24bc6c42.chunk.js": "/Kmeans-Clustering-Visualizer/static/js/2.24bc6c42.chunk.js",
+    "static/js/2.24bc6c42.chunk.js.map": "/Kmeans-Clustering-Visualizer/static/js/2.24bc6c42.chunk.js.map",
+    "static/js/3.19366045.chunk.js": "/Kmeans-Clustering-Visualizer/static/js/3.19366045.chunk.js",
+    "static/js/3.19366045.chunk.js.map": "/Kmeans-Clustering-Visualizer/static/js/3.19366045.chunk.js.map",
+    "index.html": "/Kmeans-Clustering-Visualizer/index.html",
+    "static/css/2.92c2f793.chunk.css.map": "/Kmeans-Clustering-Visualizer/static/css/2.92c2f793.chunk.css.map",
+    "static/css/main.cc39ff6d.chunk.css.map": "/Kmeans-Clustering-Visualizer/static/css/main.cc39ff6d.chunk.css.map",
+    "static/js/2.24bc6c42.chunk.js.LICENSE.txt": "/Kmeans-Clustering-Visualizer/static/js/2.24bc6c42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e344dece.js",
+    "static/css/2.92c2f793.chunk.css",
+    "static/js/2.24bc6c42.chunk.js",
+    "static/css/main.cc39ff6d.chunk.css",
+    "static/js/main.6d97c8d7.chunk.js"
+  ]
+}
