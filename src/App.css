@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+.trigger {
+  float: left;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +40,12 @@
     transform: rotate(360deg);
   }
 }
+
+@import "~antd/dist/antd.css";
+
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+
